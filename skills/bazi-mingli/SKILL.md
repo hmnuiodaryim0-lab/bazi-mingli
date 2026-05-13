@@ -169,3 +169,13 @@ print(ln.year8Char, ln.month8Char, ln.day8Char, ln.twohour8Char)
 ---
 
 _Updated via Hermes Agent GitHub integration $(date +%Y-%m-%d)_
+
+---
+
+## YouTube频道知识库
+
+来自 @dianzhuxs（电锯小屋）频道的实战命理知识，持续更新：
+
+### 用法
+频道监控自动运行，有价值的概念附在 Discord 通知里标注「补充」。积累到一定程度后迁移到这里。
+
